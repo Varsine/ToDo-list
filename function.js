@@ -40,3 +40,4 @@ function getStorge() {
     }
 }
 getStorge();
+console.log('hello')
