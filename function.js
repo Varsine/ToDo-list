@@ -41,3 +41,4 @@ function getStorge() {
 }
 getStorge();
 console.log('hello')
+console.log('hello word')
