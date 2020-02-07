@@ -43,3 +43,4 @@ getStorge();
 console.log('hello')
 var x = 10;
 var y = x
+let z = "hello"
