@@ -42,4 +42,6 @@ function getStorge() {
 getStorge();
 console.log('hello')
 console.log('hello word')
-consoloe.log("welcome github")
+console.log("welcome github")
+var date = new Date()
+console.log(date)
