@@ -44,3 +44,8 @@ console.log('hello')
 var x = 10;
 var y = x
 let z = "hello"
+
+
+var hell = 'hello my name is Varsine';
+console.log('welcome to Armenia')
+console.log('o may gad')
